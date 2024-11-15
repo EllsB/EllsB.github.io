@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ellsa\\EA279256.github.io\\",
+  "WorkspaceRootPath": "D:\\Elise Aitchison\\EA279256.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EA279256.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Elise Aitchison\\EA279256.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EA279256.github.io\\elise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:elise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EA279256.github.io\\elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Elise Aitchison\\EA279256.github.io\\elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EA279256.github.io\\generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Elise Aitchison\\EA279256.github.io\\warpjam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:warpjam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Elise Aitchison\\EA279256.github.io\\elise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:elise.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Elise Aitchison\\EA279256.github.io\\generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,40 +30,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "warpjam.html",
+              "DocumentMoniker": "D:\\Elise Aitchison\\EA279256.github.io\\warpjam.html",
+              "RelativeDocumentMoniker": "warpjam.html",
+              "ToolTip": "D:\\Elise Aitchison\\EA279256.github.io\\warpjam.html",
+              "RelativeToolTip": "warpjam.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-15T16:14:36.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "elements.html",
-              "DocumentMoniker": "C:\\Users\\ellsa\\EA279256.github.io\\elements.html",
+              "DocumentMoniker": "D:\\Elise Aitchison\\EA279256.github.io\\elements.html",
               "RelativeDocumentMoniker": "elements.html",
-              "ToolTip": "C:\\Users\\ellsa\\EA279256.github.io\\elements.html",
+              "ToolTip": "D:\\Elise Aitchison\\EA279256.github.io\\elements.html",
               "RelativeToolTip": "elements.html",
               "ViewState": "AQIAADIBAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-14T10:19:34.824Z"
+              "WhenOpened": "2024-11-14T10:19:34.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ellsa\\EA279256.github.io\\index.html",
+              "DocumentMoniker": "D:\\Elise Aitchison\\EA279256.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\ellsa\\EA279256.github.io\\index.html",
+              "ToolTip": "D:\\Elise Aitchison\\EA279256.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAAJ8AAAAaAAAAAAAAAA==",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-14T10:19:31.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "generic.html",
-              "DocumentMoniker": "C:\\Users\\ellsa\\EA279256.github.io\\generic.html",
+              "DocumentMoniker": "D:\\Elise Aitchison\\EA279256.github.io\\generic.html",
               "RelativeDocumentMoniker": "generic.html",
-              "ToolTip": "C:\\Users\\ellsa\\EA279256.github.io\\generic.html",
+              "ToolTip": "D:\\Elise Aitchison\\EA279256.github.io\\generic.html",
               "RelativeToolTip": "generic.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -67,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "elise.html",
-              "DocumentMoniker": "C:\\Users\\ellsa\\EA279256.github.io\\elise.html",
+              "DocumentMoniker": "D:\\Elise Aitchison\\EA279256.github.io\\elise.html",
               "RelativeDocumentMoniker": "elise.html",
-              "ToolTip": "C:\\Users\\ellsa\\EA279256.github.io\\elise.html",
+              "ToolTip": "D:\\Elise Aitchison\\EA279256.github.io\\elise.html",
               "RelativeToolTip": "elise.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAACgAwAAAAAAAA==",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-14T10:18:35.582Z",
               "EditorCaption": ""
