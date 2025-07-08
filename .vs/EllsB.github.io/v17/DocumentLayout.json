@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gameList.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EllsB.github.io\\corpoHell.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:corpoHell.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EllsB.github.io\\weedwhacker.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:weedwhacker.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EllsB.github.io\\warpjam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:warpjam.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ellsa\\EllsB.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "corpoHell.html",
+              "DocumentMoniker": "C:\\Users\\ellsa\\EllsB.github.io\\corpoHell.html",
+              "RelativeDocumentMoniker": "corpoHell.html",
+              "ToolTip": "C:\\Users\\ellsa\\EllsB.github.io\\corpoHell.html",
+              "RelativeToolTip": "corpoHell.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T10:30:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weedwhacker.html",
+              "DocumentMoniker": "C:\\Users\\ellsa\\EllsB.github.io\\weedwhacker.html",
+              "RelativeDocumentMoniker": "weedwhacker.html",
+              "ToolTip": "C:\\Users\\ellsa\\EllsB.github.io\\weedwhacker.html",
+              "RelativeToolTip": "weedwhacker.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T10:15:15.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "warpjam.html",
+              "DocumentMoniker": "C:\\Users\\ellsa\\EllsB.github.io\\warpjam.html",
+              "RelativeDocumentMoniker": "warpjam.html",
+              "ToolTip": "C:\\Users\\ellsa\\EllsB.github.io\\warpjam.html",
+              "RelativeToolTip": "warpjam.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T10:15:13.505Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +83,14 @@
               "RelativeDocumentMoniker": "gameList.html",
               "ToolTip": "C:\\Users\\ellsa\\EllsB.github.io\\gameList.html",
               "RelativeToolTip": "gameList.html",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-07-07T12:00:51.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\ellsa\\EllsB.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "elise.html",
               "DocumentMoniker": "C:\\Users\\ellsa\\EllsB.github.io\\elise.html",
               "RelativeDocumentMoniker": "elise.html",
